@@ -1,4 +1,4 @@
-### Hi there , Thank for joining Me 👋
+### Hi there , Thank for Visiting Me 👋
 
 
 ## ![LebzoDev](/images/logo.png) :smiling_face_with_three_hearts: :smiling_face_with_three_hearts: :smiling_face_with_three_hearts:
