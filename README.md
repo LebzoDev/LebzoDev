@@ -1,8 +1,8 @@
-### Hi there , Thank for Visiting Me 👋
+### Hi there Welcome , Thank for Your Visit 👋 
 
 
-## ![LebzoDev](/blob/main/lkm.PNG) :smiling_face_with_three_hearts: :smiling_face_with_three_hearts: :smiling_face_with_three_hearts:
-HTML | CSS | JS | BOOTSTRAP | AJAX | PHP | SYMFONY | ANGULAR: ![Alt Text](https://github.com/LebzoDev/LebzoDev/blob/main/lkm.PNG)
+## ![LebzoDev](https://github.com/LebzoDev/) :smiling_face_with_three_hearts: :smiling_face_with_three_hearts: :smiling_face_with_three_hearts:
+HTML | CSS | JS | BOOTSTRAP | AJAX | PHP | SYMFONY | ANGULAR ![Alt Text](https://github.com/LebzoDev/LebzoDev/blob/main/lkm.PNG)
 <hr>
 <br/>
 <!--
