@@ -1,8 +1,12 @@
 ### Hi there , Thank for joining Me 👋
 
+
+## ![LebzoDev](/images/logo.png) :smiling_face_with_three_hearts: :smiling_face_with_three_hearts: :smiling_face_with_three_hearts:
+HTML | CSS | JS | BOOTSTRAP | AJAX | PHP | SYMFONY | ANGULAR: ![Alt Text](https://github.com/LebzoDev/LebzoDev/blob/main/lkm.PNG)
+<hr>
+<br/>
 <!--
 **LebzoDev/LebzoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
 
