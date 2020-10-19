@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there , Thank for joining Me 👋
 
 <!--
 **LebzoDev/LebzoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Progarmming, Business Intelligence or Statistica
 - 📫 How to reach me: leboundiayee123@gmail.com
 - 😄 Pronouns: LebzoDev, LebzoDevloper, Naruto
-- ⚡ Fun fact: So Funny and Like Play old Game called NeedForSpeed
+- ⚡ Fun fact: So Funny and Like Play one old Game called NeedForSpeed
 
