@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: leboundiayee123@gmail.com
 - 😄 Pronouns: LebzoDev, LebzoDevloper, Naruto
 - ⚡ Fun fact: So Funny and Like Play one old Game called NeedForSpeed
-
