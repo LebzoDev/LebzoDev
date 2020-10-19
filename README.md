@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for a Job as a Junior web Developer
 - 💬 Ask me about Progarmming, Business Intelligence or Statistica
 - 📫 How to reach me: leboundiayee123@gmail.com
-- 😄 Pronouns: LebzoDev
+- 😄 Pronouns: LebzoDev, LebzoDevloper, Naruto
 - ⚡ Fun fact: So Funny and Like Play old Game called NeedForSpeed
 
