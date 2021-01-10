@@ -10,7 +10,7 @@ HTML | CSS | JS | BOOTSTRAP | AJAX | PHP | SYMFONY | ANGULAR ![Alt Text](https:/
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Sonatel Academy as a Web Developer Learner
+- 🔭 I’m currently working in Sonatel Academy as a Web Developer Learner
 - 🌱 I’m currently learning ANGULAR
 - 👯 I’m looking to collaborate on one interesting project called AppSchool
 - 🤔 I’m looking for a Job as a Junior web Developer
