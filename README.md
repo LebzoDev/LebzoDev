@@ -2,7 +2,7 @@
 
 
 ## ![LebzoDev](https://github.com/LebzoDev/) :smiling_face_with_three_hearts: :smiling_face_with_three_hearts: :smiling_face_with_three_hearts:
-HTML | CSS | JS | BOOTSTRAP | AJAX | PHP | SYMFONY | ANGULAR ![Alt Text](https://github.com/LebzoDev/LebzoDev/blob/main/Desktop.PNG)
+HTML | CSS | JS | BOOTSTRAP | AJAX | PHP | SYMFONY | ANGULAR ![Alt Text](https://github.com/LebzoDev/LebzoDev/blob/main/Desktop.png)
 <hr>
 <br/>
 <!--
