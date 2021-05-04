@@ -1,5 +1,5 @@
-### Welcome ,I'm Lebou DIEYE as known as LebzoDev... Thank for Your Visit 👋 
-
+### Welcome ,I'm LebzoDev... Thank for Your Visit 👋 
+I'm a junior Web and Mobile Developer. I'm an enthousiast lifetime learner. I love solving problems, having a positive mindset about all struggles i could encounter. Do you have an offer ? Would you know more about me ? I'll so excited to work with people who have a real ambition about their needs.
 
 ## ![LebzoDev](https://github.com/LebzoDev/) :smiling_face_with_three_hearts: :smiling_face_with_three_hearts: :smiling_face_with_three_hearts:
 
