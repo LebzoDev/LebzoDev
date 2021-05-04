@@ -1,4 +1,4 @@
-### Hi Welcome ,My name is LebzoDev Thank for Your Visit 👋 
+### Welcome ,I'm Lebou DIEYE as known as LebzoDev... Thank for Your Visit 👋 
 
 
 ## ![LebzoDev](https://github.com/LebzoDev/) :smiling_face_with_three_hearts: :smiling_face_with_three_hearts: :smiling_face_with_three_hearts:
@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: leboundiayee123@gmail.com
 - 😄 Pronouns: LebzoDev, LebzoDevloper, Naruto
 - ⚡ Fun fact: So Funny and Like Play one old Game called NeedForSpeed
+
+
+### GITHUB STATS :star:  :star:  :star: 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LebzoDEv&show_icons=true)
