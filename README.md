@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: So Funny and Like Play one old Game called NeedForSpeed
 
 
-### GITHUB STATS :star:  :star:  :star: 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LebzoDEv&show_icons=true)
+#### :star:  :star:  :star: STATS  :chart_with_upwards_trend: :bar_chart: :chart_with_downwards_trend:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LebzoDev&show_icons=true&theme=radical)
