@@ -8,7 +8,7 @@ I'm a junior Web and Mobile Developer. I'm an enthousiast lifetime learner. I lo
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lebou-dieye-30843b174/)](https://www.linkedin.com/in/lebou-dieye-30843b174/)
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-blue?style=for-the-badge&color=EA4335&logo=Gmail&logoColor=white&link=mailto:leboundiayee123@gmail.com)](mailto:leboundiayee123@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&color=1DA1F2&logo=Twitter&logoColor=white&link=https://twitter.com/LebzoDevelopper)](https://twitter.com/LebzoDevelopper)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lebzo_dev/)](https://www.instagram.com/lebzo_dev/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&color=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/lebzo_dev/?hl=fr)](https://www.instagram.com/lebzo_dev/?hl=fr)
  </div>
 
 ### <div align="center">  :stars: :stars: :stars: TECHNOLOGIES :stars: :stars: :stars: </div>
@@ -45,11 +45,16 @@ I'm a junior Web and Mobile Developer. I'm an enthousiast lifetime learner. I lo
 Here are some ideas to get you started:
 -->
 
-#### :man_technologist:  :man_technologist: :man_technologist: Langages 
+####  <div align="center">  :man_technologist:  :man_technologist: :man_technologist: Most Used Langages  </div>
+<div align="center"> 
+ 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lebzodev&theme=red-yellow)](https://github.com/anuraghazra/github-readme-stats)
-
-#### :trophy:  :trophy:  :trophy: TROPHY :tada: :confetti_ball: :sparkles:
+</div>
+<div align="center">  #### :trophy:  :trophy:  :trophy: TROPHY :tada: :confetti_ball: :sparkles: </div>
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Lebzodev&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-#### :star:  :star:  :star: STATS  :chart_with_upwards_trend: :bar_chart: :chart_with_downwards_trend:
+<div align="center">  #### :star:  :star:  :star: STATS  :chart_with_upwards_trend: :bar_chart: :chart_with_downwards_trend: </div>
+<div align="center"> 
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LebzoDev&show_icons=true&theme=radical)
+ </div>
