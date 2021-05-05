@@ -36,7 +36,7 @@ I'm a junior Web and Mobile Developer. I'm an enthousiast lifetime learner. I lo
 ![MATERIAL ANGULAR](https://img.shields.io/badge/-MATERIAL_Angular-white?style=for-the-badge&logo=Material-ui&color=0081CB&labelColor=0081CB&logoColor=ffffff)
 </div>
 
-![Alt Text](https://github.com/LebzoDev/LebzoDev/blob/main/Desktop.png)
+![Alt Text](https://github.com/LebzoDev/LebzoDev/blob/main/Best.png)
 
 <hr>
 <br/>
