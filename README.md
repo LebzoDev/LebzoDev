@@ -5,7 +5,7 @@ I'm a junior Web and Mobile Developer. I'm an enthousiast lifetime learner. I lo
 ### <div align="right"> :e-mail: :e-mail: :e-mail:  CONTACT ME :e-mail: :e-mail: :e-mail: <div/>
 <div align="right">
  
-[![Linkedin Badge](https://img.shields.io/badge/-LebouDieye-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lebou-dieye-30843b174/)](https://www.linkedin.com/in/lebou-dieye-30843b174/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lebou-dieye-30843b174/)](https://www.linkedin.com/in/lebou-dieye-30843b174/)
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-blue?style=for-the-badge&color=EA4335&logo=Gmail&logoColor=white&link=leboundiayee123@gmail.com)](leboundiayee123@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&color=1DA1F2&logo=Twitter&logoColor=white&link=https://twitter.com/LebzoDevelopper)](https://twitter.com/LebzoDevelopper)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lebzo_dev/)](https://www.instagram.com/lebzo_dev/)
@@ -36,10 +36,7 @@ I'm a junior Web and Mobile Developer. I'm an enthousiast lifetime learner. I lo
 ![MATERIAL ANGULAR](https://img.shields.io/badge/-MATERIAL_Angular-white?style=for-the-badge&logo=Material-ui&color=0081CB&labelColor=0081CB&logoColor=ffffff)
 </div>
 
- 
-
-
-HTML | CSS | JS | BOOTSTRAP | AJAX | PHP | SYMFONY | ANGULAR ![Alt Text](https://github.com/LebzoDev/LebzoDev/blob/main/Desktop.png)
+![Alt Text](https://github.com/LebzoDev/LebzoDev/blob/main/Desktop.png)
 
 <hr>
 <br/>
