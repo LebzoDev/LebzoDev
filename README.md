@@ -2,11 +2,12 @@
 I'm a junior Web and Mobile Developer. I'm an enthousiast lifetime learner. I love solving problems, having a positive mindset about all struggles i could encounter. I got some skills on Statistitics and Business Intelligence. Do you have an offer ? Would you know more about me ? I'll so excited to work with people who have a real ambition about their needs.
 
 
-### <div align="right">  CONTACT ME :stars: :stars: :stars: <div/>
+### <div align="right"> :e-mail: :e-mail: :e-mail:  CONTACT ME :e-mail: :e-mail: :e-mail: <div/>
 <div align="right">
  
 [![Linkedin Badge](https://img.shields.io/badge/-LebouDieye-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lebou-dieye-30843b174/)](https://www.linkedin.com/in/lebou-dieye-30843b174/)
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-blue?style=for-the-badge&color=EA4335&logo=Gmail&logoColor=white&link=leboundiayee123@gmail.com)](leboundiayee123@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&color=1DA1F2&logo=Twitter&logoColor=white&link=https://twitter.com/LebzoDevelopper)](https://twitter.com/LebzoDevelopper)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lebzo_dev/)](https://www.instagram.com/lebzo_dev/)
  </div>
 
