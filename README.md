@@ -45,10 +45,10 @@ I'm a junior Web and Mobile Developer. I'm an enthousiast lifetime learner. I lo
 Here are some ideas to get you started:
 -->
 
-<div align="center"> 
- 
+<!--div align="center"> 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lebzodev&theme=red-yellow)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div
+-->
 
 ####  <div align="center">  :trophy:  :trophy:  :trophy: TROPHY :tada: :confetti_ball: :sparkles: </div>
 <div align="center">
