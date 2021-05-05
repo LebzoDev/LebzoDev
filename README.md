@@ -6,12 +6,10 @@ I'm a junior Web and Mobile Developer. I'm an enthousiast lifetime learner. I lo
 [![Instagram Badge](https://img.shields.io/badge/-Lebzodev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lebzo_dev/)](https://www.instagram.com/lebzo_dev/)
 
 ### TECHNOLOGIES :stars: :stars: :stars:
-![image](https://user-images.githubusercontent.com/44217902/117000391-8507fb80-acd0-11eb-8fbb-26d143c2b218.png)
-![image](https://user-images.githubusercontent.com/44217902/117000216-470ad780-acd0-11eb-9088-79aeaf27240d.png)
-![image](https://user-images.githubusercontent.com/44217902/117003957-08c3e700-acd5-11eb-92bf-0d4779c43b51.png)
-![image](https://user-images.githubusercontent.com/44217902/117003930-ffd31580-acd4-11eb-9d24-70482efc7ea7.png)
-
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&labelColor=000000&color=F7DF1E)
+![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular&labelColor=DD0031&color=DD0031)
+![PHP](https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=php&labelColor=000000&color=F7DF1E)
+![Symfony](https://img.shields.io/badge/-Symfony-black?style=for-the-badge&logo=Symfony&labelColor=DD0031&color=DD0031)
 
 HTML | CSS | JS | BOOTSTRAP | AJAX | PHP | SYMFONY | ANGULAR ![Alt Text](https://github.com/LebzoDev/LebzoDev/blob/main/Desktop.png)
 
