@@ -3,7 +3,7 @@ I'm a junior Web and Mobile Developer. I'm an enthousiast lifetime learner. I lo
 
 ### JOIN ME :stars: :stars: :stars:
 
-<div align="right">eledlbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbjl"bjlb d"bb"d db"uiu"i"i"men</div>
+<div align="center">eledlbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbjl"bjlb d"bb"d db"uiu"i"i"men</div>
  
 [![Linkedin Badge](https://img.shields.io/badge/-LebouDieye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lebou-dieye-30843b174/)](https://www.linkedin.com/in/lebou-dieye-30843b174/)
 [![Instagram Badge](https://img.shields.io/badge/-Lebzodev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lebzo_dev/)](https://www.instagram.com/lebzo_dev/)
