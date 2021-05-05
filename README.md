@@ -8,8 +8,8 @@ I'm a junior Web and Mobile Developer. I'm an enthousiast lifetime learner. I lo
 ### TECHNOLOGIES :stars: :stars: :stars:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&labelColor=000000&color=F7DF1E)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular&labelColor=DD0031&color=DD0031)
-![PHP](https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=php&labelColor=000000&color=F7DF1E)
-![Symfony](https://img.shields.io/badge/-Symfony-black?style=for-the-badge&logo=Symfony&labelColor=DD0031&color=DD0031)
+![PHP](https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=php&labelColor=777BB4&color=777BB4&logoColor=ffffff)
+![Symfony](https://img.shields.io/badge/-Symfony-black?style=for-the-badge&logo=Symfony&labelColor=000000&color=000000)
 
 HTML | CSS | JS | BOOTSTRAP | AJAX | PHP | SYMFONY | ANGULAR ![Alt Text](https://github.com/LebzoDev/LebzoDev/blob/main/Desktop.png)
 
