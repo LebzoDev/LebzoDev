@@ -16,16 +16,16 @@ I'm a junior Web and Mobile Developer. I'm an enthousiast lifetime learner. I lo
 ![Symfony](https://img.shields.io/badge/-Symfony-black?style=for-the-badge&logo=Symfony&labelColor=000000&color=000000)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&labelColor=007396&color=007396&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=Spring&labelColor=6DB33F&color=6DB33F&logoColor=ffffff)
-<br />
 ![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=TypeScript&color=3178C6&labelColor=3178C6&logoColor=ffffff)
 ![IONIC](https://img.shields.io/badge/-IONIC-white?style=for-the-badge&logo=Ionic&color=3880FF&labelColor=3880FF&logoColor=ffffff)
+<br />
 ![MYSQL](https://img.shields.io/badge/-MYSQL-white?style=for-the-badge&logo=Mysql&color=4479A1&labelColor=4479A1&logoColor=ffffff)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-white?style=for-the-badge&logo=Figma&color=F24E1E&labelColor=F24E1E&logoColor=ffffff)
 ![TRELLO](https://img.shields.io/badge/-TRELLO-white?style=for-the-badge&logo=Figma&color=0052CC&labelColor=0052CC&logoColor=ffffff)
 ![GIT](https://img.shields.io/badge/-GIT-white?style=for-the-badge&logo=Git&color=F05032&labelColor=F05032&logoColor=ffffff)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-white?style=for-the-badge&logo=Github&color=181717&labelColor=181717&logoColor=ffffff)
+![DOCKER](https://img.shields.io/badge/-DOCKER-white?style=for-the-badge&logo=Docker&color=2496ED&labelColor=2496ED&logoColor=ffffff)
 <br/>
-
 ![HTML](https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=HTML5&color=ffffff&labelColor=E34F26&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS3-white?style=for-the-badge&logo=CSS3&color=1572B6&labelColor=1572B6&logoColor=ffffff)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSRAP-white?style=for-the-badge&logo=bootstrap&color=7952B3&labelColor=7952B3&logoColor=ffffff)
