@@ -1,11 +1,13 @@
 ### Welcome ,I'm LebzoDev... Thank for Your Visit 👋 
 I'm a junior Web and Mobile Developer. I'm an enthousiast lifetime learner. I love solving problems, having a positive mindset about all struggles i could encounter. I got some skills on Statistitics and Business Intelligence. Do you have an offer ? Would you know more about me ? I'll so excited to work with people who have a real ambition about their needs.
 
-### JOIN ME :stars: :stars: :stars: <div>
 
+### <div align="right">  CONTACT ME :stars: :stars: :stars: <div/>
+<div align="right">
  
 [![Linkedin Badge](https://img.shields.io/badge/-LebouDieye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lebou-dieye-30843b174/)](https://www.linkedin.com/in/lebou-dieye-30843b174/)
 [![Instagram Badge](https://img.shields.io/badge/-Lebzodev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lebzo_dev/)](https://www.instagram.com/lebzo_dev/)
+ </div>
 
 ### <div align="center">  :stars: :stars: :stars: TECHNOLOGIES :stars: :stars: :stars: </div>
 <div align="center">
