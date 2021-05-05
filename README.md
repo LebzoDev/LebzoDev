@@ -19,7 +19,10 @@ I'm a junior Web and Mobile Developer. I'm an enthousiast lifetime learner. I lo
 
 <hr>
 
-![HTML](https://img.shields.io/badge/-Html-white?style=for-the-badge&logo=html&color=E34F26&labelColor=E34F26&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=HTML5&color=ffffff&labelColor=E34F26&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS3-white?style=for-the-badge&logo=CSS3&color=1572B6&labelColor=1572B6&logoColor=ffffff)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSRAP-white?style=for-the-badge&logo=bootstrap&color=7952B3&labelColor=7952B3&logoColor=ffffff)
+![MATERIAL ANGULAR](https://img.shields.io/badge/-MATERIAL_Angular-white?style=for-the-badge&logo=Material-ui&color=0081CB&labelColor=0081CB&logoColor=ffffff)
 </div>
 
  
