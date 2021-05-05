@@ -45,18 +45,18 @@ I'm a junior Web and Mobile Developer. I'm an enthousiast lifetime learner. I lo
 Here are some ideas to get you started:
 -->
 
-####  <div align="center">  :man_technologist:  :man_technologist: :man_technologist: Most Used Langages  </div>
 <div align="center"> 
  
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lebzodev&theme=red-yellow)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<div align="center">  #### :trophy:  :trophy:  :trophy: TROPHY :tada: :confetti_ball: :sparkles: </div>
+
+####  <div align="center">  :trophy:  :trophy:  :trophy: TROPHY :tada: :confetti_ball: :sparkles: </div>
 <div align="center">
  
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Lebzodev&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
-<div align="center">  #### :star:  :star:  :star: STATS  :chart_with_upwards_trend: :bar_chart: :chart_with_downwards_trend: </div>
+#### <div align="center"> :star:  :star:  :star: STATS  :chart_with_upwards_trend: :bar_chart: :chart_with_downwards_trend: </div>
 <div align="center"> 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LebzoDev&show_icons=true&theme=radical)
