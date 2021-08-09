@@ -1,5 +1,5 @@
 ### Welcome ,I'm LebzoDev... Thank for Your Visit 👋 
-I'm a junior Web and Mobile Developer. I'm an enthousiast lifelong learner. I love solving problems, having a positive mindset about all struggles i could encounter. I got some skills on Statistitics and Business Intelligence. Do you have an offer ? Would you know more about me ? I'll so excited to work with people who have a real ambition about their needs. I'm so flexible to switch to an other technologie and like sharing.
+I'm a junior Web and Mobile Developer. I'm an enthousiast lifelong learner. I love solving problems, having a positive mindset about all struggles i could encounter. 
 
 
 ### <div align="right"> :e-mail: :e-mail: :e-mail:  CONTACT ME :e-mail: :e-mail: :e-mail: <div/>
