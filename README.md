@@ -7,7 +7,7 @@ I'm a junior Web and Mobile Developer. I'm an enthousiast lifelong learner. I lo
  
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lebou-dieye-30843b174/)](https://www.linkedin.com/in/lebou-dieye-30843b174/)
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-blue?style=for-the-badge&color=EA4335&logo=Gmail&logoColor=white&link=mailto:leboundiayee123@gmail.com)](mailto:leboundiayee123@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&color=1DA1F2&logo=Twitter&logoColor=white&link=https://twitter.com/LebzoDevelopper)](https://twitter.com/LebzoDevelopper)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&color=1DA1F2&logo=Twitter&logoColor=white&link=https://twitter.com/LebzoDev)](https://twitter.com/LebzoDevelopper)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&color=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/lebzo_dev/?hl=fr)](https://www.instagram.com/lebzo_dev/?hl=fr)
  </div>
 
