@@ -18,8 +18,6 @@ I'm an enthousiast developer and lifetime learner. I love solving problems, havi
 ![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular&labelColor=DD0031&color=DD0031)
 ![PHP](https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=php&labelColor=777BB4&color=777BB4&logoColor=ffffff)
 ![Symfony](https://img.shields.io/badge/-Symfony-black?style=for-the-badge&logo=Symfony&labelColor=000000&color=000000)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&labelColor=007396&color=007396&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=Spring&labelColor=6DB33F&color=6DB33F&logoColor=ffffff)
 <br />
 ![MYSQL](https://img.shields.io/badge/-MYSQL-white?style=for-the-badge&logo=Mysql&color=4479A1&labelColor=4479A1&logoColor=ffffff)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-white?style=for-the-badge&logo=Figma&color=F24E1E&labelColor=F24E1E&logoColor=ffffff)
