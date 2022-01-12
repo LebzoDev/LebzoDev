@@ -1,5 +1,5 @@
 ### Welcome ,I'm LebzoDev... Thank for Your Visit 👋 
-I'm an enthousiast developer and lifelong learner. I love solving problems, having a positive mindset about all struggles i encounter. 
+I'm an enthousiast developer and lifetime learner. I love solving problems, having a positive mindset about all struggles i encounter. 
 
 
 ### <div align="right"> :e-mail: :e-mail: :e-mail:  CONTACT ME :e-mail: :e-mail: :e-mail: <div/>
